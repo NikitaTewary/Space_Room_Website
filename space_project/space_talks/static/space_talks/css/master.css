@@ -1,0 +1,11 @@
+
+body {
+  margin: 0;
+  background-color: black;
+  overflow-x:hidden;
+  overflow-y:auto;
+  color:white;
+}
+.center1{
+  text-align: center;
+}
